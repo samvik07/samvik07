@@ -2,7 +2,7 @@
 ## I'm a credit risk and data professional.  💼📊
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Data Science GIF"/>
+  <img src="https://static.iconbetter.com/assets/illustrations/female-data-analyst.png" width="300" alt="Female Data Science"/>
 </div>
 
                                                        Welcome to my GitHub profile! 👩‍💻
