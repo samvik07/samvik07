@@ -1,5 +1,5 @@
- # Hi, I'm Saumita Haldar 👋  
-## I'm a credit risk and data professional.  💼📊
+ # Hi, I'm Saumita Haldar 👋  I'm data professional.  💼📊
+## I'm currently working as a AI/ML Research Assistant. I've been a Credit Risk Specialist. 
 
                                                        Welcome to my GitHub profile! 👩‍💻
 
