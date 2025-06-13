@@ -21,7 +21,7 @@
 - 🔮 Predictive Analytics
 - 🧩 Clustering (for Segmentation and Anomaly Detection)
 
-### Learning & Development
+### 🎯 Learning & Development
 - ❄️ Snowflake
 - 🔥 PySpark
 - ☁️ Azure ML
