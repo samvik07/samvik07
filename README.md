@@ -1,10 +1,6 @@
  # Hi, I'm Saumita Haldar 👋  
 ## I'm a credit risk and data professional.  💼📊
 
-<div align="center">
-  <img src="https://static.iconbetter.com/assets/illustrations/female-data-analyst.png" width="300" alt="Female Data Science"/>
-</div>
-
                                                        Welcome to my GitHub profile! 👩‍💻
 
 ####  I've worked as a Credit Risk Analyst at a bank for almost 6 years, before which I've worked as an Application Support Analyst at an IT services and Consulting company. Throughout my career, I have worked with data across different domains to enable decision-making at businesses - from opertaions optimisation ⚙️, customer retention 🤝, revenue growth 💰, or risk management 🚨. 
@@ -30,6 +26,9 @@
 - 🔥 PySpark
 - ☁️ Azure ML
 
+Besides, I love nature photography, cats, and music. I love to draw, sketch, and paint. My watching preferences are thriller and comedy.
+
+##### Fun Fact: I used to make Birthday Presentations using PowerPoint for my friends (during my undergrad) and everyone absolutely loved them 💙!
 
 🚀 Always curious, always learning. Data is where the stories are — and I’m here to tell them.
 
