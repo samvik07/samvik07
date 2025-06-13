@@ -26,10 +26,12 @@
 - 🔥 PySpark
 - ☁️ Azure ML
 
+🚀 Always curious, always learning. Data is where the stories are — and I’m here to tell them.
+
+
 Besides, I love nature photography, cats, and music. I love to draw, sketch, and paint. My watching preferences are thriller and comedy.
 
 ##### Fun Fact: I used to make Birthday Presentations using PowerPoint for my friends (during my undergrad) and everyone absolutely loved them 💙!
 
-🚀 Always curious, always learning. Data is where the stories are — and I’m here to tell them.
 
 
